@@ -1,0 +1,57 @@
+h1{
+    color: black;
+    text-align: center;
+    height:200px;
+    width: 200px;
+    padding-left: 20px;
+    border-radius: 5px;
+
+}
+#h2{
+    text-align: center;
+}
+
+#entrar{
+    background-color:#556080;
+    color: white;
+    border: 0;
+    border-color:#556080;
+    height: 50px;
+    width: 505px;
+    text-shadow: none;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+
+}
+#Senha{
+    background: #e7eef1;
+    border:0;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+#Usuario{
+    background: #e7eef1;
+    color: black;
+    border:0;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    border-radius: 5px;
+}
+#fundo{
+    max-width: 400px;
+    font-size: 18px;
+    padding: 0;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+#imagem{ 
+    padding-left: 40%;
+}
